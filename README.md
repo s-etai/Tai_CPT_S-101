@@ -1,2 +1,3 @@
 # Tai_CPT_S-101
-for CPT_S-101 assignment 
+Elliott Tai
+elliott.tai@wsu.edu
